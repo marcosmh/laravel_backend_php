@@ -16,6 +16,12 @@ Project Laravel Backend PHP
 
 * php artisan serve --host=127.0.0.1 --port=8000
 
+## Create Controller
+
+* php artisan make:controller BackendController 
+
+
 ## Utils
 * sudo lsof -i :8000
 * sudo kill -9 PID
+
